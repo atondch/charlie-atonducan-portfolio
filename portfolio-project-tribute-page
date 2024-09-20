@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">Nikola Tesla</title>
+  </head>
+<body>
+  <header>
+    <h1>Nikola Tesla</h1>
+    <p>He was a man of extraordinary intellect and imagination, with a mind that could envision the future.</p>
+  </header>
+  <main id="main">
+    <div id="img-div">
+      <img src="https://st2.depositphotos.com/1141679/48270/i/450/depositphotos_482703640-stock-photo-nikola-tesla-portrait-original-artwork.jpg" id="image"></img>
+      <div id="img-caption">Tesla saw a world united by wireless technology. Wardenclyffe Tower was a step, but challenges ended it. His vision inspires today.</div>
+      <div class="timeline">
+        <ul>
+          <li><b>Early Years:</b> Born in Smiljan, Austria-Hungary (now Croatia), in 1856. Showed early signs of exceptional intelligence and creativity.</li>
+          <li><b>Education:</b> Studied engineering at the Technical University of Graz, Austria, but left without a degree.</li>
+          <li><b>1882:</b> Discovers the principle of magnetic induction.</li>
+          <li><b>1884:</b> Immigrates to the United States.</li>
+          <li><b>1888:</b> Develops alternating current (AC) systems.</li>
+          <li><b>1893:</b> Demonstrates AC generators at the Chicago World's Fair.</li>
+          <li><b>1895:</b> Begins construction of Wardenclyffe Tower, a project envisioned to achieve global wireless communication and power transmission.</li>
+          <li><b>1915:</b> Is nominated for the Nobel Prize in Physics but does not win.</li>
+          <li><b>1943:</b> Dies in New York City.</li>
+          </ul>
+    </div>
+  <div id="tribute-info">Learn more about Nikola Tesla on his <a href="https://en.wikipedia.org/wiki/Nikola_Tesla" id="tribute-link" value="tribute-link" target="_blank">Wikipedia entry</a></div>
+  </main>
+</body>
+</html>
