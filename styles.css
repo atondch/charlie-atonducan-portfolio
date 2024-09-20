@@ -1,0 +1,45 @@
+img{
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body{
+  font-family: sans-serif;
+  background:url("https://media.istockphoto.com/id/1395009237/photo/electrostatic-discharge-of-tesla-coil.jpg?s=612x612&w=0&k=20&c=J9Hg5DkS_uQIwrh_kej7e-8QFjKOksYu-rFierHFcuo=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+header{
+  background-color: turquoise;
+}
+h1,p,#img-caption{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  line-height: 1.5;
+}
+#img-div{
+  background-color: white;
+}
+#tribute-info{
+  background-color: turquoise;
+  text-align: center;
+}
+.timeline{
+  display: grid;
+  line-height: 2.5;
+  justify-content: center;
+  padding: 0px 0%;
+}
+header, main{
+  width: 50%;
+  margin: 0 auto;
+}
+p,#img-caption{
+  font-style: italic;
+  padding: 0px 10%;
+}
